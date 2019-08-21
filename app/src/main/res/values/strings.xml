@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleSAFDemo</string>
+    <string name="choose_folder">You need to choose a folder before saving</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved!</string>
+    <string name="save_and_move">Save and Move</string>
+</resources>
